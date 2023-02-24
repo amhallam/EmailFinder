@@ -1,4 +1,4 @@
-# EmailFinder by Minelead.io
+# Email Finder by Minelead.io
 The best email finder and verifier with real time API provided by https://minelead.io/search/
 
 This repo contains a list of codes in python language that users can see in order to find anyone's profesional email in milliseconds.
